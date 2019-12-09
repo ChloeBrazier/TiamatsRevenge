@@ -1,0 +1,1512 @@
+﻿Log file open, 12/07/19 19:27:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tiamats_Revenge
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.387318
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Engine.ini]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Engine.ini]
+[2019.12.08-00.27.45:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Engine.ini]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Engine.ini]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.08-00.27.45:030][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Engine.ini]
+[2019.12.08-00.27.45:030][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Engine.ini]
+[2019.12.08-00.27.45:033][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-00.27.45:033][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-00.27.45:034][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-00.27.45:034][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-00.27.45:034][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-00.27.45:034][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-00.27.45:034][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:034][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-00.27.45:034][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-00.27.45:034][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-00.27.45:034][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.08-00.27.45:111][  0]LogHAL: Display: Platform has ~ 16 GB [17112211456 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.08-00.27.45:111][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.08-00.27.45:111][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-00.27.45:111][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-00.27.45:112][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-00.27.45:112][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-00.27.45:112][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-00.27.45:112][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-00.27.45:112][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-00.27.45:112][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.08-00.27.45:112][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.08-00.27.45:112][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.08-00.27.45:112][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Config/Windows/Engine.ini]
+[2019.12.08-00.27.45:112][  0]LogInit: Computer: IGM2025-06
+[2019.12.08-00.27.45:112][  0]LogInit: User: ecb9413
+[2019.12.08-00.27.45:112][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.08-00.27.45:112][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.08-00.27.45:112][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.08-00.27.45:112][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-00.27.45:112][  0]LogMemory: Process Physical Memory: 99.26 MB used, 99.26 MB peak
+[2019.12.08-00.27.45:112][  0]LogMemory: Process Virtual Memory: 89.65 MB used, 89.65 MB peak
+[2019.12.08-00.27.45:112][  0]LogMemory: Physical Memory: 4660.52 MB used,  11658.95 MB free, 16319.48 MB total
+[2019.12.08-00.27.45:112][  0]LogMemory: Virtual Memory: 4660.45 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.12.08-00.27.45:124][  0]LogInit: Using OS detected language (en-US).
+[2019.12.08-00.27.45:124][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.08-00.27.45:125][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.08-00.27.45:249][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.08-00.27.45:366][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.08-00.27.45:366][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.08-00.27.45:496][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.08-00.27.45:496][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.08-00.27.45:551][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.08-00.27.45:551][  0]LogD3D11RHI:       8088/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.08-00.27.45:571][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.08-00.27.45:571][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.08-00.27.45:571][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.08-00.27.45:575][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.08-00.27.45:575][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.08-00.27.45:575][  0]LogWindows: EnumDisplayDevices:
+[2019.12.08-00.27.45:576][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.12.08-00.27.45:576][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.12.08-00.27.45:576][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.08-00.27.45:576][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.08-00.27.45:576][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.08-00.27.45:576][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.08-00.27.45:576][  0]LogD3D11RHI:   Driver Version: 436.30 (internal:26.21.14.3630, unified:436.30)
+[2019.12.08-00.27.45:576][  0]LogD3D11RHI:      Driver Date: 9-5-2019
+[2019.12.08-00.27.45:576][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.12.08-00.27.45:601][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.08-00.27.45:603][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.08-00.27.45:603][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.08-00.27.45:603][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.08-00.27.45:611][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.08-00.27.45:831][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.08-00.27.45:843][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.08-00.27.45:885][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.08-00.27.45:925][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.08-00.27.45:937][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.08-00.27.45:971][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.08-00.27.46:003][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.08-00.27.46:038][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.08-00.27.46:042][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.08-00.27.46:169][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.08-00.27.46:170][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.08-00.27.46:249][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.08-00.27.46:249][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.08-00.27.46:294][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.08-00.27.46:295][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.08-00.27.46:332][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.08-00.27.46:365][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.08-00.27.46:411][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.08-00.27.46:453][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.08-00.27.46:512][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.08-00.27.46:512][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.08-00.27.46:512][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.08-00.27.46:517][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.08-00.27.46:571][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Intermediate/Shaders/WorkingDirectory/11372/).
+[2019.12.08-00.27.46:571][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Profiles/ecb9413/AppData/Local/Temp/UnrealShaderWorkingDir/2056AF204D27CF871D4FEDB34AF400DC/'.
+[2019.12.08-00.27.46:572][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.08-00.27.46:573][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.08-00.27.46:573][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.08-00.27.46:984][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.08-00.27.47:017][  0]LogDerivedDataCache: Loaded boot cache 0.03s 71MB D:/Profiles/ecb9413/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.08-00.27.47:017][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Profiles/ecb9413/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.08-00.27.47:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.08-00.27.47:018][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.08-00.27.47:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-00.27.47:018][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.08-00.27.47:028][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.08-00.27.47:028][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-00.27.47:028][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.08-00.27.47:040][  0]LogDerivedDataCache: Using Local data cache path D:/Profiles/ecb9413/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.08-00.27.47:040][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.08-00.27.47:040][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.08-00.27.47:055][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.08-00.27.47:056][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.08-00.27.47:056][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.08-00.27.47:121][  0]LogAssetRegistry: FAssetRegistry took 0.0306 seconds to start up
+[2019.12.08-00.27.47:419][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-00.27.47:457][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.08-00.27.47:457][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.08-00.27.47:457][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.08-00.27.47:457][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.08-00.27.47:457][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.08-00.27.47:524][  0]LogNetVersion: Tiamats_Revenge 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2142073921)
+[2019.12.08-00.27.48:175][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.388702 seconds
+[2019.12.08-00.27.48:179][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.08-00.27.48:179][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.08-00.27.48:179][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.08-00.27.48:736][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.08-00.27.48:749][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.08-00.27.48:749][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.48:749][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.49:073][  0]SourceControl: Source control is disabled
+[2019.12.08-00.27.49:073][  0]SourceControl: Source control is disabled
+[2019.12.08-00.27.49:073][  0]SourceControl: Source control is disabled
+[2019.12.08-00.27.49:074][  0]SourceControl: Source control is disabled
+[2019.12.08-00.27.49:564][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.08-00.27.49:639][  0]LogOcInput: OculusInput pre-init called
+[2019.12.08-00.27.50:113][  0]LogEngine: Initializing Engine...
+[2019.12.08-00.27.50:114][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.08-00.27.50:115][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.12.08-00.27.50:261][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.08-00.27.50:270][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.08-00.27.50:297][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.27.50:326][  0]LogInit: FAudioDevice initialized.
+[2019.12.08-00.27.50:326][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.08-00.27.50:389][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB D:/Profiles/ecb9413/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.08-00.27.50:395][  0]LogInit: Texture streaming: Enabled
+[2019.12.08-00.27.50:405][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.08-00.27.50:419][  0]LogInit: Transaction tracking system initialized
+[2019.12.08-00.27.50:433][  0]BlueprintLog: New page: Editor Load
+[2019.12.08-00.27.50:486][  0]LocalizationService: Localization service is disabled
+[2019.12.08-00.27.50:684][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.08-00.27.50:684][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.08-00.27.50:791][  0]SourceControl: Source control is disabled
+[2019.12.08-00.27.50:791][  0]Cmd: MAP LOAD FILE="Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-00.27.50:797][  0]LightingResults: New page: Lighting Build
+[2019.12.08-00.27.50:798][  0]MapCheck: New page: Map Check
+[2019.12.08-00.27.50:798][  0]LightingResults: New page: Lighting Build
+[2019.12.08-00.27.50:819][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.12.08-00.27.51:731][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/' took 0.40s
+[2019.12.08-00.27.54:326][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.08-00.27.54:365][  0]LogScript: Warning: Accessed None trying to read property BranchMesh1
+	master_tree_branch_spline_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.master_tree_branch_spline_2
+	Function /Game/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline.master_tree_branch_spline_C:UserConstructionScript:034E
+[2019.12.08-00.27.54:366][  0]LogScript: Warning: Accessed None trying to read property BranchMesh2
+	master_tree_branch_spline_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.master_tree_branch_spline_2
+	Function /Game/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline.master_tree_branch_spline_C:UserConstructionScript:0387
+[2019.12.08-00.27.54:366][  0]LogScript: Warning: Accessed None trying to read property BranchMesh3
+	master_tree_branch_spline_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.master_tree_branch_spline_2
+	Function /Game/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline.master_tree_branch_spline_C:UserConstructionScript:03C0
+[2019.12.08-00.27.54:366][  0]LogScript: Warning: Accessed None trying to read property BranchMesh4
+	master_tree_branch_spline_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.master_tree_branch_spline_2
+	Function /Game/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline.master_tree_branch_spline_C:UserConstructionScript:03F9
+[2019.12.08-00.27.54:390][  0]LogScript: Warning: Accessed None trying to read property BranchMesh1
+	master_tree_branch_spline_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.master_tree_branch_spline2_2
+	Function /Game/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline.master_tree_branch_spline_C:UserConstructionScript:034E
+[2019.12.08-00.27.54:390][  0]LogScript: Warning: Accessed None trying to read property BranchMesh2
+	master_tree_branch_spline_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.master_tree_branch_spline2_2
+	Function /Game/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline.master_tree_branch_spline_C:UserConstructionScript:0387
+[2019.12.08-00.27.54:390][  0]LogScript: Warning: Accessed None trying to read property BranchMesh3
+	master_tree_branch_spline_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.master_tree_branch_spline2_2
+	Function /Game/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline.master_tree_branch_spline_C:UserConstructionScript:03C0
+[2019.12.08-00.27.54:390][  0]LogScript: Warning: Accessed None trying to read property BranchMesh4
+	master_tree_branch_spline_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.master_tree_branch_spline2_2
+	Function /Game/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline.master_tree_branch_spline_C:UserConstructionScript:03F9
+[2019.12.08-00.27.54:391][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-00.27.54:420][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.12.08-00.27.54:421][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-00.27.54:421][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2019.12.08-00.27.54:421][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.630
+[2019.12.08-00.27.54:505][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.27.54:510][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.27.54:515][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.27.54:521][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.27.54:528][  0]LogCollectionManager: Loaded 0 collections in 0.004901 seconds
+[2019.12.08-00.27.54:566][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Collections/' took 0.01s
+[2019.12.08-00.27.54:566][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/Developers/ecb9413/Collections/' took 0.01s
+[2019.12.08-00.27.54:566][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/Collections/' took 0.01s
+[2019.12.08-00.27.54:566][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.12.08-00.27.54:572][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2732 classes and 659 folders.
+[2019.12.08-00.27.54:576][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.08-00.27.54:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:578][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:578][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:578][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.08-00.27.54:597][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.08-00.27.54:601][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.08-00.27.54:614][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.08-00.27.54:616][  0]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.08-00.27.54:619][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.08-00.27.54:662][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.08-00.27.54:770][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.08-00.27.54:770][  0]LogLoad: (Engine Initialization) Total time: 11.79 seconds
+[2019.12.08-00.27.54:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.08-00.27.54:821][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.54:822][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/', and we were unable to create a new request.
+[2019.12.08-00.27.54:822][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.54:822][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/', and we were unable to create a new request.
+[2019.12.08-00.27.54:823][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.54:823][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/Developers/ecb9413/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.54:823][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.54:824][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.08-00.27.54:843][  1]LogAssetRegistry: Asset discovery search completed in 7.7447 seconds
+[2019.12.08-00.27.54:845][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.08-00.27.54:845][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2019.12.08-00.27.54:845][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.54:846][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/Collections/', and we were unable to create a new request.
+[2019.12.08-00.27.54:846][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/Developers/ecb9413/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.54:847][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/Developers/ecb9413/Collections/', and we were unable to create a new request.
+[2019.12.08-00.27.54:847][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.12.08-00.27.54:847][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/Collections/', and we were unable to create a new request.
+[2019.12.08-00.28.01:977][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.28.02:066][855]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.08-00.28.08:094][573]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.08-00.28.10:530][573]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.28.10:543][573]LogAssetEditorManager: Opening Asset editor for World /Game/FinalRoom.FinalRoom
+[2019.12.08-00.28.10:567][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.08-00.28.10:568][573]Cmd: MAP LOAD FILE="Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-00.28.10:568][573]LightingResults: New page: Lighting Build
+[2019.12.08-00.28.10:568][573]LoadErrors: New page: Loading map: FinalRoom.umap
+[2019.12.08-00.28.10:570][573]MapCheck: New page: Map Check
+[2019.12.08-00.28.10:570][573]LightingResults: New page: Lighting Build
+[2019.12.08-00.28.10:592][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.12.08-00.28.10:675][573]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-00.28.10:698][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.12.08-00.28.10:808][573]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-00.28.10:808][573]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.765ms to complete.
+[2019.12.08-00.28.10:808][573]LogFileHelpers: Loading map 'FinalRoom' took 0.241
+[2019.12.08-00.28.16:813][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.28.21:500][751]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.12.08-00.28.23:079][935]Cmd: DELETE
+[2019.12.08-00.28.23:079][935]Cmd: ACTOR DELETE
+[2019.12.08-00.28.23:082][935]LogEditorActor: Deleted Actor: PlayerStart
+[2019.12.08-00.28.23:104][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.12.08-00.28.23:105][935]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.12.08-00.28.24:242][ 72]LogEditorViewport: Clicking on Actor (LMB): MY_ThirdPersonCharacter_C (MY_ThirdPersonCharacter)
+[2019.12.08-00.28.24:912][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.28.24:978][152]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.28.25:002][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.28.25:002][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.28.25:002][152]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:28:25 PM)
+[2019.12.08-00.28.25:013][152]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.28.25:033][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018936s)
+[2019.12.08-00.28.25:033][152]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.28.25:033][152]LogPlayLevel: PIE: World Init took: (0.000399s)
+[2019.12.08-00.28.25:033][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020699s)
+[2019.12.08-00.28.25:055][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.08-00.28.25:075][152]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.28.25:087][152]LogInit: FAudioDevice initialized.
+[2019.12.08-00.28.25:123][152]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.28.25:126][152]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.28.25
+[2019.12.08-00.28.25:126][152]LogWorld: Bringing up level for play took: 0.002713
+[2019.12.08-00.28.25:142][152]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.12.08-00.28.25:143][152]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom -0.577
+[2019.12.08-00.28.25:143][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.28.26:438][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.28.26:438][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.28.26:467][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.28.26:467][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.28.26:490][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.28.26:493][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.12.08-00.28.26:538][308]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.08-00.28.29:517][665]LogEditorViewport: Clicking on Actor (LMB): MY_ThirdPersonCharacter_C (MY_ThirdPersonCharacter)
+[2019.12.08-00.28.40:930][ 13]Cmd: TRANSACTION UNDO
+[2019.12.08-00.28.40:930][ 13]LogEditorTransaction: Undo Rotate Actors
+[2019.12.08-00.28.41:224][ 47]Cmd: TRANSACTION UNDO
+[2019.12.08-00.28.41:224][ 47]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.08-00.28.41:619][ 90]Cmd: TRANSACTION UNDO
+[2019.12.08-00.28.41:619][ 90]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.08-00.28.41:962][131]Cmd: TRANSACTION UNDO
+[2019.12.08-00.28.41:962][131]LogEditorTransaction: Undo Delete Actors
+[2019.12.08-00.28.42:908][243]LogEditorViewport: Clicking on Actor (LMB): MY_ThirdPersonCharacter_C (MY_ThirdPersonCharacter)
+[2019.12.08-00.28.45:202][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.28.45:653][563]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.28.45:664][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.28.45:664][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.28.45:664][563]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:28:45 PM)
+[2019.12.08-00.28.45:664][563]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.28.45:684][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019762s)
+[2019.12.08-00.28.45:684][563]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.28.45:684][563]LogPlayLevel: PIE: World Init took: (0.000391s)
+[2019.12.08-00.28.45:684][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020240s)
+[2019.12.08-00.28.45:706][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.08-00.28.45:726][563]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.28.45:737][563]LogInit: FAudioDevice initialized.
+[2019.12.08-00.28.45:762][563]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.28.45:764][563]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.28.45
+[2019.12.08-00.28.45:765][563]LogWorld: Bringing up level for play took: 0.002654
+[2019.12.08-00.28.45:777][563]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom 0.057
+[2019.12.08-00.28.45:777][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.28.47:996][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.28.47:996][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.28.48:023][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.28.48:023][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.28.48:045][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.28.48:048][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.08-00.28.48:101][832]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.08-00.28.50:238][ 88]LogEditorViewport: Clicking on Actor (LMB): MY_ThirdPersonCharacter_C (MY_ThirdPersonCharacter)
+[2019.12.08-00.29.20:841][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.29.23:094][ 79]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.08-00.29.31:808][110]Cmd: DELETE
+[2019.12.08-00.29.31:808][110]Cmd: ACTOR DELETE
+[2019.12.08-00.29.31:811][110]LogEditorActor: Deleted Actor: MY_ThirdPersonCharacter_C
+[2019.12.08-00.29.31:855][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.08-00.29.31:856][110]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.12.08-00.29.33:036][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.29.33:144][265]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.29.33:155][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.29.33:155][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.29.33:155][265]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:29:33 PM)
+[2019.12.08-00.29.33:155][265]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.29.33:175][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019536s)
+[2019.12.08-00.29.33:175][265]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.29.33:175][265]LogPlayLevel: PIE: World Init took: (0.000409s)
+[2019.12.08-00.29.33:175][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020037s)
+[2019.12.08-00.29.33:196][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.12.08-00.29.33:216][265]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.29.33:227][265]LogInit: FAudioDevice initialized.
+[2019.12.08-00.29.33:254][265]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.29.33:256][265]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.29.33
+[2019.12.08-00.29.33:257][265]LogWorld: Bringing up level for play took: 0.002200
+[2019.12.08-00.29.33:269][265]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom -0.451
+[2019.12.08-00.29.33:269][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.29.45:438][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.29.45:438][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.29.45:465][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.29.45:465][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.29.45:487][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.29.45:490][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.08-00.29.45:544][731]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.08-00.30.00:224][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.30.29:215][480]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.08-00.30.29:848][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.30.40:987][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.30.41:054][896]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.30.41:066][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.30.41:066][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.30.41:066][896]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:30:41 PM)
+[2019.12.08-00.30.41:066][896]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.30.41:086][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019815s)
+[2019.12.08-00.30.41:086][896]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.30.41:086][896]LogPlayLevel: PIE: World Init took: (0.000398s)
+[2019.12.08-00.30.41:086][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020302s)
+[2019.12.08-00.30.41:107][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.12.08-00.30.41:128][896]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.30.41:139][896]LogInit: FAudioDevice initialized.
+[2019.12.08-00.30.41:169][896]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.30.41:172][896]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.30.41
+[2019.12.08-00.30.41:172][896]LogWorld: Bringing up level for play took: 0.002669
+[2019.12.08-00.30.41:184][896]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom -0.536
+[2019.12.08-00.30.41:184][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.30.47:613][664]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.30.47:614][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.30.47:639][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.30.47:639][664]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.30.47:663][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.30.47:666][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.08-00.30.47:713][669]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.08-00.30.49:810][920]LogEditorViewport: Clicking on Actor (LMB): MY_ThirdPersonCharacter_C (MY_ThirdPersonCharacter)
+[2019.12.08-00.30.59:078][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.31.00:074][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.12.08-00.31.00:080][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.31.00:085][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalRoom" FILE="Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.08-00.31.00:124][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.12.08-00.31.07:304][125]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/FinalRoom332FA82B4B3CD9211066A292A9131AAB.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap'
+[2019.12.08-00.31.07:396][125]LogFileHelpers: Saving map 'FinalRoom' took 7.311
+[2019.12.08-00.31.07:477][125]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/FirstPersonGameMode02B6CB96444FEC3FBB58729B9B3E2152.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2019.12.08-00.31.31:344][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue_02a)
+[2019.12.08-00.31.34:308][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.33.29:807][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.12.08-00.33.29:815][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalRoom" FILE="Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.08-00.33.29:869][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.12.08-00.33.36:997][334]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/FinalRoom460D528047B26FCE8D293CA4EBDFF35D.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap'
+[2019.12.08-00.33.37:083][334]LogFileHelpers: Saving map 'FinalRoom' took 7.269
+[2019.12.08-00.33.51:956][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.33.51:968][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.33.51:968][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.33.51:968][ 64]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:33:51 PM)
+[2019.12.08-00.33.51:968][ 64]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.33.51:988][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019965s)
+[2019.12.08-00.33.51:988][ 64]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.33.51:988][ 64]LogPlayLevel: PIE: World Init took: (0.000464s)
+[2019.12.08-00.33.51:988][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020520s)
+[2019.12.08-00.33.52:010][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.08-00.33.52:029][ 64]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.33.52:042][ 64]LogInit: FAudioDevice initialized.
+[2019.12.08-00.33.52:070][ 64]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.33.52:072][ 64]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.33.52
+[2019.12.08-00.33.52:073][ 64]LogWorld: Bringing up level for play took: 0.002768
+[2019.12.08-00.33.52:085][ 64]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.33.52:085][ 64]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom 0.365
+[2019.12.08-00.33.52:086][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.02:810][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.02:810][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.34.02:836][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.34.02:836][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.02:859][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.34.02:862][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.12.08-00.34.02:917][356]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.08-00.34.04:159][505]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor1)
+[2019.12.08-00.34.04:658][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue_02a)
+[2019.12.08-00.34.06:469][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.34.12:478][497]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.34.12:489][497]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.12:489][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.34.12:489][497]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:34:12 PM)
+[2019.12.08-00.34.12:489][497]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.34.12:509][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019565s)
+[2019.12.08-00.34.12:509][497]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.34.12:509][497]LogPlayLevel: PIE: World Init took: (0.000384s)
+[2019.12.08-00.34.12:509][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020038s)
+[2019.12.08-00.34.12:530][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.12.08-00.34.12:550][497]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.34.12:562][497]LogInit: FAudioDevice initialized.
+[2019.12.08-00.34.12:588][497]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.34.12:590][497]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.34.12
+[2019.12.08-00.34.12:591][497]LogWorld: Bringing up level for play took: 0.002716
+[2019.12.08-00.34.12:603][497]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.34.12:603][497]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom 0.882
+[2019.12.08-00.34.12:603][497]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.22:705][709]LogCharacterMovement: MY_ThirdPersonCharacter_5 is stuck and failed to move! Velocity: X=57.27 Y=17.03 Z=0.00 Location: X=32.75 Y=103.90 Z=107.16 Normal: X=-0.57 Y=-0.19 Z=0.80 PenetrationDepth:1.739 Actor:SM_Statue_02a_29 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.12.08-00.34.25:114][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.25:115][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.34.25:142][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.34.25:142][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.25:165][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.34.25:168][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.08-00.34.25:215][  3]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.08-00.34.26:332][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.34.26:423][148]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.34.26:435][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.26:435][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.34.26:435][148]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:34:26 PM)
+[2019.12.08-00.34.26:435][148]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.34.26:455][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019895s)
+[2019.12.08-00.34.26:456][148]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.34.26:456][148]LogPlayLevel: PIE: World Init took: (0.000396s)
+[2019.12.08-00.34.26:456][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020384s)
+[2019.12.08-00.34.26:477][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.08-00.34.26:497][148]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.34.26:508][148]LogInit: FAudioDevice initialized.
+[2019.12.08-00.34.26:535][148]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.34.26:537][148]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.34.26
+[2019.12.08-00.34.26:538][148]LogWorld: Bringing up level for play took: 0.002706
+[2019.12.08-00.34.26:550][148]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.34.26:550][148]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom 0.829
+[2019.12.08-00.34.26:550][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.33:411][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.33:411][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.34.33:436][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.34.33:436][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.33:458][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.34.33:461][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.12.08-00.34.33:516][977]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.08-00.34.34:275][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.34.34:367][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.34.34:377][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.34:377][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.34.34:377][ 79]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:34:34 PM)
+[2019.12.08-00.34.34:377][ 79]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.34.34:396][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019630s)
+[2019.12.08-00.34.34:396][ 79]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.34.34:396][ 79]LogPlayLevel: PIE: World Init took: (0.000384s)
+[2019.12.08-00.34.34:396][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020102s)
+[2019.12.08-00.34.34:416][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.12.08-00.34.34:436][ 79]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.34.34:448][ 79]LogInit: FAudioDevice initialized.
+[2019.12.08-00.34.34:474][ 79]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.34.34:477][ 79]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.34.34
+[2019.12.08-00.34.34:477][ 79]LogWorld: Bringing up level for play took: 0.002711
+[2019.12.08-00.34.34:489][ 79]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.34.34:489][ 79]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom 0.768
+[2019.12.08-00.34.34:489][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.40:649][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.40:649][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.34.40:676][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.34.40:676][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.34.40:699][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.34.40:702][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.08-00.34.40:756][824]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.08-00.34.41:581][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue_02a)
+[2019.12.08-00.34.47:113][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.34.55:914][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.12.08-00.34.55:922][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalRoom" FILE="Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.08-00.34.55:959][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.12.08-00.35.03:134][636]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/FinalRoom06A5EAAD48920C84DE46DEAB78F0F43A.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap'
+[2019.12.08-00.35.03:218][636]LogFileHelpers: Saving map 'FinalRoom' took 7.297
+[2019.12.08-00.35.04:192][710]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.35.04:212][710]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.35.04:212][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.35.04:213][710]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:35:04 PM)
+[2019.12.08-00.35.04:213][710]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.35.04:246][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033190s)
+[2019.12.08-00.35.04:246][710]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.35.04:246][710]LogPlayLevel: PIE: World Init took: (0.000408s)
+[2019.12.08-00.35.04:246][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.033688s)
+[2019.12.08-00.35.04:268][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.12.08-00.35.04:288][710]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.35.04:300][710]LogInit: FAudioDevice initialized.
+[2019.12.08-00.35.04:341][710]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.35.04:344][710]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.35.04
+[2019.12.08-00.35.04:344][710]LogWorld: Bringing up level for play took: 0.002784
+[2019.12.08-00.35.04:356][710]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.35.04:356][710]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom 0.636
+[2019.12.08-00.35.04:356][710]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.35.14:866][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.35.14:867][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.35.14:897][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.35.14:897][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.35.14:920][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.35.14:923][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.08-00.35.14:969][974]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.08-00.35.16:402][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue_02a)
+[2019.12.08-00.35.18:014][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.35.26:463][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.12.08-00.35.26:470][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalRoom" FILE="Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.08-00.35.26:508][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.12.08-00.35.33:118][346]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/FinalRoomCCAAD1E9411911425A2C9683AD7F948D.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap'
+[2019.12.08-00.35.33:215][346]LogFileHelpers: Saving map 'FinalRoom' took 6.746
+[2019.12.08-00.36.06:312][ 20]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyInteractionBP/InteractInterface_BP.InteractInterface_BP
+[2019.12.08-00.36.06:401][ 20]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.12.08-00.36.08:854][240]LogSlate: Window 'InteractInterface_BP' being destroyed
+[2019.12.08-00.37.12:461][865]LogSlate: Took 0.006761 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.08-00.37.22:190][ 12]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MY_ThirdPersonCharacter.MY_ThirdPersonCharacter
+[2019.12.08-00.37.24:224][176]LogSlate: Window 'MY_ThirdPersonCharacter' being destroyed
+[2019.12.08-00.39.27:336][730]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/MY_ThirdPersonCharacterF63716C64B2A0E87DE84E998A5A5D448.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/ThirdPersonBP/Blueprints/MY_ThirdPersonCharacter.uasset'
+[2019.12.08-00.39.28:188][826]BlueprintLog: New page: Compile MY_ThirdPersonCharacter
+[2019.12.08-00.39.28:341][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.12.08-00.39.32:175][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.12.08-00.39.32:181][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalRoom" FILE="Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.08-00.39.32:221][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.08-00.39.39:333][258]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/FinalRoomC423273348B2A761773D9D9D529FF719.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap'
+[2019.12.08-00.39.39:431][258]LogFileHelpers: Saving map 'FinalRoom' took 7.251
+[2019.12.08-00.39.40:273][317]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.39.40:302][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.39.40:302][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.39.40:302][317]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:39:40 PM)
+[2019.12.08-00.39.40:302][317]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.39.40:322][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019672s)
+[2019.12.08-00.39.40:322][317]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.39.40:322][317]LogPlayLevel: PIE: World Init took: (0.000400s)
+[2019.12.08-00.39.40:323][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020163s)
+[2019.12.08-00.39.40:349][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.08-00.39.40:370][317]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.39.40:382][317]LogInit: FAudioDevice initialized.
+[2019.12.08-00.39.40:682][317]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.39.40:685][317]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.39.40
+[2019.12.08-00.39.40:685][317]LogWorld: Bringing up level for play took: 0.002734
+[2019.12.08-00.39.40:698][317]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.39.40:698][317]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom 0.98
+[2019.12.08-00.39.40:699][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.40.14:769][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.40.14:769][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.40.14:798][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.40.14:798][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.40.14:829][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.40.14:833][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.12.08-00.40.14:872][405]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.08-00.40.16:089][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.41.44:738][133]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.41.44:750][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.41.44:750][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.41.44:750][133]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:41:44 PM)
+[2019.12.08-00.41.44:750][133]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.41.44:771][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020353s)
+[2019.12.08-00.41.44:771][133]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.41.44:771][133]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2019.12.08-00.41.44:771][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020923s)
+[2019.12.08-00.41.44:795][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.12.08-00.41.44:815][133]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.41.44:826][133]LogInit: FAudioDevice initialized.
+[2019.12.08-00.41.44:856][133]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.41.44:859][133]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.41.44
+[2019.12.08-00.41.44:859][133]LogWorld: Bringing up level for play took: 0.002757
+[2019.12.08-00.41.44:871][133]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.41.44:871][133]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom -0.847
+[2019.12.08-00.41.44:871][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.41.57:081][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.41.57:081][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.41.57:122][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.41.57:122][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.41.57:154][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.41.57:158][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.12.08-00.41.57:188][601]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.08-00.41.57:797][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.42.15:213][613]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/MY_ThirdPersonCharacter66DDE3CA42C00D96D728BCA04A12C6EA.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/ThirdPersonBP/Blueprints/MY_ThirdPersonCharacter.uasset'
+[2019.12.08-00.42.15:688][664]BlueprintLog: New page: Compile MY_ThirdPersonCharacter
+[2019.12.08-00.42.15:838][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.12.08-00.42.18:071][912]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.42.18:097][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.42.18:097][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.42.18:097][912]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:42:18 PM)
+[2019.12.08-00.42.18:097][912]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.42.18:117][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019657s)
+[2019.12.08-00.42.18:117][912]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.42.18:118][912]LogPlayLevel: PIE: World Init took: (0.000388s)
+[2019.12.08-00.42.18:118][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020131s)
+[2019.12.08-00.42.18:141][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.12.08-00.42.18:161][912]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.42.18:173][912]LogInit: FAudioDevice initialized.
+[2019.12.08-00.42.18:199][912]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.42.18:202][912]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.42.18
+[2019.12.08-00.42.18:202][912]LogWorld: Bringing up level for play took: 0.002667
+[2019.12.08-00.42.18:213][912]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.42.18:213][912]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom 0.496
+[2019.12.08-00.42.18:213][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.42.41:010][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.42.41:010][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.42.41:038][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.42.41:038][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.42.41:069][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.42.41:073][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.08-00.42.41:113][649]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.08-00.42.46:718][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.42.46:793][328]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.42.46:805][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.42.46:805][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.42.46:805][328]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:42:46 PM)
+[2019.12.08-00.42.46:806][328]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.42.46:825][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019519s)
+[2019.12.08-00.42.46:825][328]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.42.46:826][328]LogPlayLevel: PIE: World Init took: (0.000396s)
+[2019.12.08-00.42.46:826][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020007s)
+[2019.12.08-00.42.46:853][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.12.08-00.42.46:872][328]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.42.46:883][328]LogInit: FAudioDevice initialized.
+[2019.12.08-00.42.46:912][328]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.42.46:915][328]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.42.46
+[2019.12.08-00.42.46:915][328]LogWorld: Bringing up level for play took: 0.002657
+[2019.12.08-00.42.46:927][328]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.42.46:927][328]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom -0.79
+[2019.12.08-00.42.46:927][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.42.56:504][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.42.56:504][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.42.56:533][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.42.56:533][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.42.56:565][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.42.56:569][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.12.08-00.42.56:608][481]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.08-00.42.57:809][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue_02a)
+[2019.12.08-00.43.00:123][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.43.30:050][482]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/DynamicGrassLite/Particles/BombSparks_PS.BombSparks_PS
+[2019.12.08-00.43.30:094][482]LogBlueprintActionDatabase: Requesting refresh due to module change: Cascade (loaded)
+[2019.12.08-00.43.30:095][482]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2019.12.08-00.43.30:135][482]LogBlueprintActionDatabase: Requesting refresh due to module change: DistCurveEditor (loaded)
+[2019.12.08-00.43.46:025][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.43.52:625][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.43.55:457][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.44.01:677][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.44.17:753][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.44.23:877][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.44.31:486][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.44.42:319][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.44.45:690][487]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.08-00.45.02:450][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.45.10:928][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.45.12:616][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.45.17:434][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.46.40:029][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.46.52:579][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.46.59:655][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.47.08:547][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.47.09:217][636]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/BombSparks_PS79DF8B314EB7849F0A8693A3D5AADB56.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/DynamicGrassLite/Particles/BombSparks_PS.uasset'
+[2019.12.08-00.47.20:204][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.47.28:865][913]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/BombSparks_PS7D7D67114BE9965AC3C067AB08F74B8C.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/DynamicGrassLite/Particles/BombSparks_PS.uasset'
+[2019.12.08-00.47.36:130][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.47.36:213][785]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.47.36:224][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.47.36:225][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.47.36:225][785]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:47:36 PM)
+[2019.12.08-00.47.36:225][785]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.47.36:244][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020044s)
+[2019.12.08-00.47.36:245][785]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.47.36:245][785]LogPlayLevel: PIE: World Init took: (0.000461s)
+[2019.12.08-00.47.36:245][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020601s)
+[2019.12.08-00.47.36:292][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.12.08-00.47.36:312][785]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.47.36:324][785]LogInit: FAudioDevice initialized.
+[2019.12.08-00.47.36:355][785]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.47.36:358][785]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.47.36
+[2019.12.08-00.47.36:358][785]LogWorld: Bringing up level for play took: 0.002777
+[2019.12.08-00.47.36:370][785]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.47.36:370][785]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom 0.654
+[2019.12.08-00.47.36:370][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.47.43:858][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.47.43:858][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.47.43:887][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.47.43:887][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.47.43:919][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.47.43:925][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.12.08-00.47.43:963][686]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.08-00.47.46:741][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.47.58:585][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.48.02:984][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.48.10:109][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.48.22:395][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.48.34:506][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.48.37:142][  1]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/BombSparks_PS4F9984A746C71FD290447288C400BC6A.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/DynamicGrassLite/Particles/BombSparks_PS.uasset'
+[2019.12.08-00.48.40:841][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.48.49:642][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.48.56:401][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.49.10:626][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.49.16:504][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.49.28:296][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.49.37:472][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.49.58:839][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.50.10:738][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.50.17:170][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.50.23:070][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.50.24:601][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.50.33:193][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.50.34:861][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.50.41:811][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.50.52:911][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.50.54:228][421]LogParticles: Warning: MaxCount = 5002 for Emitter ParticleSpriteEmitter_4 (/Game/DynamicGrassLite/Particles/BombSparks_PS.BombSparks_PS)
+[2019.12.08-00.51.00:429][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.51.01:037][176]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/BombSparks_PS364E51234DA7D0E115E5E1AE1AF9C57E.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/DynamicGrassLite/Particles/BombSparks_PS.uasset'
+[2019.12.08-00.51.01:666][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.51.08:159][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.51.15:628][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.51.30:941][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.51.32:316][891]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_4 (/Game/DynamicGrassLite/Particles/BombSparks_PS.BombSparks_PS)
+[2019.12.08-00.52.00:347][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.52.02:181][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.08-00.52.21:823][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.52.32:516][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.52.44:021][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.52.50:032][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.52.50:725][223]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/BombSparks_PS6F5EB9C644781AE59BDF7D993A5E7984.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/DynamicGrassLite/Particles/BombSparks_PS.uasset'
+[2019.12.08-00.52.51:090][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.52.56:558][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.53.07:250][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.53.27:566][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.53.36:358][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.53.40:009][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.53.59:376][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.54.00:026][464]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/BombSparks_PS3763EE7C4B2E158A3AA16C892CC31A3C.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/DynamicGrassLite/Particles/BombSparks_PS.uasset'
+[2019.12.08-00.54.00:430][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.54.06:966][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.54.07:075][293]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.08-00.54.07:086][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.54.07:087][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-00.54.07:087][293]PIE: New page: PIE session: FinalRoom (Dec 7, 2019, 2:54:07 PM)
+[2019.12.08-00.54.07:087][293]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FinalRoom
+[2019.12.08-00.54.07:107][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019870s)
+[2019.12.08-00.54.07:107][293]LogAIModule: Creating AISystem for world FinalRoom
+[2019.12.08-00.54.07:107][293]LogPlayLevel: PIE: World Init took: (0.000470s)
+[2019.12.08-00.54.07:107][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FinalRoom.FinalRoom to /Game/UEDPIE_0_FinalRoom.FinalRoom (0.020437s)
+[2019.12.08-00.54.07:134][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.12.08-00.54.07:155][293]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-00.54.07:167][293]LogInit: FAudioDevice initialized.
+[2019.12.08-00.54.07:191][293]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.08-00.54.07:194][293]LogWorld: Bringing World /Game/UEDPIE_0_FinalRoom.FinalRoom up for play (max tick rate 0) at 2019.12.07-19.54.07
+[2019.12.08-00.54.07:194][293]LogWorld: Bringing up level for play took: 0.002797
+[2019.12.08-00.54.07:206][293]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.08-00.54.07:206][293]PIE: Play in editor start time for /Game/UEDPIE_0_FinalRoom -0.509
+[2019.12.08-00.54.07:207][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.54.19:402][756]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.54.19:402][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.54.19:433][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-00.54.19:433][756]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FinalRoom.FinalRoom:PersistentLevel' has LevelScriptBlueprint '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom' with GeneratedClass '/Game/FinalRoom.FinalRoom_C' with ClassGeneratedBy '/Game/FinalRoom.FinalRoom:PersistentLevel.FinalRoom'
+[2019.12.08-00.54.19:465][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-00.54.19:469][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.12.08-00.54.19:506][759]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.08-00.54.20:123][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.54.26:730][565]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/BombSparks_PS34EA927C4C28774F2B53EF98D8EA2549.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/DynamicGrassLite/Particles/BombSparks_PS.uasset'
+[2019.12.08-00.54.27:381][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-00.54.27:490][650]LogCascade: Quitting Cascade. FXSystem=0x000001C4A31C5FC0
+[2019.12.08-00.54.30:402][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.12.08-00.54.30:410][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FinalRoom" FILE="Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.08-00.54.30:464][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.12.08-00.54.37:079][935]LogSavePackage: Moving 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Saved/FinalRoomE97C3374447F56F808BA5A839C56743E.tmp' to 'Z:/IGMProfile/Documents/GitHub/TiamatsRevenge/Tiamats_Revenge/Content/FinalRoom.umap'
+[2019.12.08-00.54.37:174][935]LogFileHelpers: Saving map 'FinalRoom' took 6.765
+[2019.12.08-00.54.39:482][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.12.08-00.54.39:727][141]LogSlate: Window 'Tiamats_Revenge - Unreal Editor' being destroyed
+[2019.12.08-00.54.39:905][142]Cmd: QUIT_EDITOR
+[2019.12.08-00.54.40:563][142]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.08-00.54.40:572][142]LogExit: Preparing to exit.
+[2019.12.08-00.54.40:735][142]LogExit: Editor shut down
+[2019.12.08-00.54.40:735][142]LogExit: Transaction tracking system shut down
+[2019.12.08-00.54.41:946][142]LogExit: Object subsystem successfully closed.
+[2019.12.08-00.54.41:957][142]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.08-00.54.41:961][142]LogD3D11RHI: Shutdown
+[2019.12.08-00.54.41:961][142]LogD3D11RHI: CleanupD3DDevice
+[2019.12.08-00.54.41:962][142]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.08-00.54.41:962][142]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.08-00.54.41:962][142]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.08-00.54.41:962][142]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.08-00.54.41:962][142]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.08-00.54.41:962][142]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.08-00.54.42:041][142]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module DistCurveEditor (652)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module Cascade (650)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.12.08-00.54.42:049][142]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.12.08-00.54.42:050][142]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.12.08-00.54.42:489][142]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.12.08-00.54.42:545][142]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.12.08-00.54.42:548][142]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.12.08-00.54.42:548][142]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.12.08-00.54.42:549][142]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.12.08-00.54.42:551][142]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.12.08-00.54.42:731][142]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.12.08-00.54.42:731][142]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.12.08-00.54.42:731][142]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.12.08-00.54.42:731][142]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.12.08-00.54.42:731][142]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.12.08-00.54.42:731][142]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.12.08-00.54.42:732][142]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.12.08-00.54.42:834][142]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.12.08-00.54.42:934][142]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.12.08-00.54.42:934][142]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.12.08-00.54.42:935][142]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.12.08-00.54.42:936][142]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.12.08-00.54.42:936][142]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.12.08-00.54.42:936][142]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.12.08-00.54.42:936][142]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.12.08-00.54.42:936][142]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.12.08-00.54.42:936][142]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.12.08-00.54.42:937][142]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.12.08-00.54.42:965][142]LogDerivedDataCache: Shutdown
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.12.08-00.54.42:965][142]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.12.08-00.54.42:966][142]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.12.08-00.54.42:966][142]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.12.08-00.54.42:966][142]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.12.08-00.54.42:966][142]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.12.08-00.54.42:966][142]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.12.08-00.54.42:966][142]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.12.08-00.54.42:966][142]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.12.08-00.54.42:967][142]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.12.08-00.54.42:967][142]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.12.08-00.54.42:971][142]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.12.08-00.54.42:972][142]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.12.08-00.54.42:972][142]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.12.08-00.54.42:984][142]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.12.08-00.54.42:984][142]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.08-00.54.42:984][142]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE125C2CE-417C-677E-20DE-16810796772B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=f4d50f084b8b69786c4214b1b2f5bbf7%7C%7C47ff9854-7277-415d-899d-1db99f6dc444&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.08-00.54.42:995][142]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.12.08-00.54.42:996][142]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.12.08-00.54.42:996][142]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.12.08-00.54.43:002][142]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.12.08-00.54.43:002][142]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.12.08-00.54.43:004][142]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.08-00.54.43:004][142]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.08-00.54.43:004][142]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.08-00.54.43:004][142]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.08-00.54.43:004][142]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.08-00.54.43:004][142]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.08-00.54.43:004][142]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.08-00.54.43:005][142]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.08-00.54.43:012][142]LogExit: Exiting.
+[2019.12.08-00.54.43:847][142]Log file closed, 12/07/19 19:54:43
